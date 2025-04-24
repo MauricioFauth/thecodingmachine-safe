@@ -117,7 +117,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1-dev"
+            "dev-v1-php8.4": "1.x-dev"
         }
     }
 }
